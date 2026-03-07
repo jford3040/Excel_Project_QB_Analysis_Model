@@ -1,6 +1,6 @@
 # NFL Quarterback GOAT Analytical Model
 
-(https://docs.google.com/spreadsheets/d/1wCGeV-194F5a9CaFOrZiJQmLf2ba2pUVidcrwqGBIYE/edit?usp=sharing)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-View_Live_Model-success?style=for-the-badge&logo=googlesheets)](https://docs.google.com/spreadsheets/d/1wCGeV-194F5a9CaFOrZiJQmLf2ba2pUVidcrwqGBIYE/edit?usp=sharing)
 
 ## Project Overview
 This project is a data-driven approach to the "Greatest of All Time" debate in the NFL. 
