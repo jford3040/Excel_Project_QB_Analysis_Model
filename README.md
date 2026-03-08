@@ -54,7 +54,7 @@ Each pillar produces an independent ranking, which are then combined into a fina
 
 ## Dataset
 
-The model evaluates **25 historically significant NFL quarterbacks** spanning multiple eras of professional football.
+The model evaluates **25 historically significant NFL quarterbacks** spanning multiple eras of professional football. I relied on [Pro Football Reference](https://www.pro-football-reference.com/) and [StatMuse](https://www.statmuse.com/) for data collection.
 
 The dataset includes:
 
